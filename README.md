@@ -8,19 +8,19 @@ This project is a web application that utilizes a backend API to generate storie
 
 1. Clone the repository:
  
-       git clone https://github.com/Alex-gikungu/ai_educamp.git
+    git clone https://github.com/Alex-gikungu/ai_educamp.git
 
 
 2. Navigate to the project directory:
 
      
-      cd ai_educamp
+    cd ai_educamp
 
 
 3. Install dependencies:
 
 
-      npm install 
+    npm install 
 
 
 4. 
@@ -31,7 +31,7 @@ To use the story generator:
 1. Start the application:
 
 
-      npm run dev
+    npm run dev
 
 
 
@@ -48,7 +48,10 @@ This project is open for any contributions
 
 ## Author
 
+
 Github username :Alex-gikungu
+
+
 email:alexigikungu.012@gmail.com
 
 ## License
